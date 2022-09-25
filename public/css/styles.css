@@ -1,0 +1,32 @@
+body{
+    background-color: #ecebeb;
+}
+
+.newsletter-signup-form{
+    width: 400px;
+    max-width: 400px;
+}
+
+
+input{
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: #ccc;
+    padding: 10px 15px;
+    width: 100%;
+}
+
+#fname{
+    border-bottom: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+
+}
+#lname{
+    border-radius: 0px;
+}
+#email{
+    border-top: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
